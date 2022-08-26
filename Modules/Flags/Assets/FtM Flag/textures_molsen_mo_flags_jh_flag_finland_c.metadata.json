@@ -1,0 +1,13 @@
+{
+  "data_len": 87360,
+  "hd_len": 1310720,
+  "width": 512,
+  "height": 256,
+  "hd_width": 2048,
+  "hd_height": 1024,
+  "compressed_format": 72,
+  "uncompressed_format": 145,
+  "mipmaps": 6,
+  "hd_mipmaps": 2,
+  "raw_headers": "uYBFXFwAAABAVQEAAAAAAAAAAABAVQEAAAAAAAAAAAAAAAAAMVRBRLmARVxcAAAAAQAAAJM13k4wAAAALAAAAFRleHR1cmUgQnVpbHQgRmlsZQAAQFUBAAAAFAAACAAEAAIAAQEAkQBIAAAAAAAAAAEABgACAQEBAAAAAAAAAAA="
+}
